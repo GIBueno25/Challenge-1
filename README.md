@@ -141,7 +141,7 @@ Expanding into the areas of financial aid allocation and enrollment forecasting 
 
   Automating routine processes such as financial aid distribution, eligibility checks, and document processing can save time and reduce errors.
 
-### **Notes**
+## **Notes**
 1. https://www.ibisworld.com/united-states/market-research-reports/education-sector/
 2. https://www.precedenceresearch.com/higher-education-market
 3. https://www.syntellis.com/sites/default/files/2023-01/2023%20Higher%20Ed%20CFO%20Outlook_HE.1023.01.23%20%281%29.pdf
